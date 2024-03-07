@@ -1,0 +1,54 @@
+@media screen and (max-width:1340px) {
+    body {
+        /* background-color: red; */
+
+    }
+
+    .slider {
+        position: relative;
+        overflow: hidden;
+        width: 98vw;
+
+        margin-top: 15vh;
+        /* height: 20vh; */
+
+
+    }
+    .card{
+        position: relative;
+        width: 98vw;
+        margin: 5px auto;
+        font-family: "Ubuntu", sans-serif;
+        background-color: yellow;
+    }
+    .card-itmes{
+        position: relative;
+        width: 15vw;
+        overflow: hidden;
+        justify-content: center;
+        flex-direction: column;
+        margin: 0px 3vw;
+    }
+
+    nav {
+        flex-direction: column;
+
+    }
+
+    .logo {
+        justify-content: center;
+        margin: 1px 0;
+    }
+
+    nav ul {
+        justify-content: center;
+        margin: 2px 5px;
+
+    }
+
+    .search input {
+        justify-content: center;
+        margin: 9px 10px;
+        padding: 2px 2px;
+    }
+}

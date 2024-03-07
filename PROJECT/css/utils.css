@@ -1,0 +1,21 @@
+.flex-all-center{
+    text-align: center;
+    display: flex;
+    /* it is a contaier property */
+    justify-content: center; 
+    align-items: center;
+}
+.btn{
+    padding: 0 4px;
+    cursor: pointer;
+    font-family: "Outfit", sans-serif;
+}
+.my-2{
+    margin: 10px;
+}
+.text-center{
+    text-align: center;
+}
+.my-1{
+    margin: 2px;
+}
